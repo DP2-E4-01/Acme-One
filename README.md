@@ -1,2 +1,0 @@
-# Acme-One
-Acme One
